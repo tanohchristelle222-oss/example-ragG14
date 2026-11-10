@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-10T15:24:41",
+  "machine": {
+    "os": "Windows 10 (10.0.19045)",
+    "python": "3.13.17",
+    "cpu": "Intel(R) Core(TM) i5-6300U CPU @ 2.40GHz",
+    "coeurs_logiques": 4,
+    "ram_go": 7.9,
+    "gpu": "Intel(R) HD Graphics 520"
+  },
+  "ollama_python": null,
+  "embedding_retenu": "bge-m3",
+  "temperature": 0.2,
+  "num_predict": 400,
+  "duree_totale_min": 32.0,
+  "contextes": {
+    "Q1": [
+      "AR001",
+      "AR004",
+      "AR046"
+    ],
+    "Q2": [
+      "AR013",
+      "AR024",
+      "AR043"
+    ],
+    "Q3": [
+      "AR017",
+      "AR040",
+      "AR039"
+    ],
+    "Q4": [
+      "AR032",
+      "AR036",
+      "AR024"
+    ],
+    "Q5": [
+      "AR041",
+      "AR042",
+      "AR031"
+    ],
+    "Q6": [
+      "AR031",
+      "AR022",
+      "AR027"
+    ],
+    "Q7": [
+      "AR035",
+      "AR037",
+      "AR034"
+    ],
+    "Q8": [
+      "AR047",
+      "AR006",
+      "AR027"
+    ]
+  }
+}

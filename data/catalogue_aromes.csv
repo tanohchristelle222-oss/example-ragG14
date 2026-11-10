@@ -1,0 +1,49 @@
+id;nom;famille;description;notes_gout;applications;forme;dosage_conseille;certifications;prix_indicatif_eur_kg;quantite_min_kg
+AR001;Fraise des bois;Fruité rouge;Fraise mûre et parfumée avec une touche sucrée et légèrement acidulée;sucré, acidulé, juteux;yaourts, glaces, boissons, confiseries;liquide;0,1 à 0,3 %;naturel, vegan, halal;48;5
+AR002;Framboise fraîche;Fruité rouge;Framboise vive et acidulée avec une note de pépin;acidulé, frais, légèrement amer;sorbets, boissons gazeuses, desserts lactés;liquide;0,1 à 0,25 %;naturel, vegan;52;5
+AR003;Cerise griotte;Fruité rouge;Cerise acidulée aux notes d'amande;acidulé, amandé, profond;pâtisseries, sodas, bonbons;liquide;0,15 à 0,3 %;vegan, halal;39;5
+AR004;Fruits rouges mélangés;Fruité rouge;Assemblage fraise, framboise, cassis et myrtille;sucré, fruité, rond;yaourts, céréales, smoothies;poudre;0,2 à 0,5 %;naturel, vegan;44;10
+AR005;Cassis intense;Fruité rouge;Cassis puissant aux notes boisées et légèrement végétales;intense, boisé, acidulé;sirops, gommes, boissons;liquide;0,1 à 0,2 %;naturel, vegan;55;5
+AR006;Mangue Alphonso;Fruité exotique;Mangue très mûre, sucrée et crémeuse;sucré, crémeux, tropical;smoothies, glaces, yaourts;liquide;0,15 à 0,3 %;naturel, vegan, halal;58;5
+AR007;Fruit de la passion;Fruité exotique;Passion acidulée et parfumée, très expressive;acidulé, tropical, parfumé;boissons, sorbets, pâtisseries;liquide;0,1 à 0,2 %;naturel, vegan;61;5
+AR008;Ananas rôti;Fruité exotique;Ananas caramélisé avec une note grillée;caramélisé, sucré, grillé;desserts, sauces sucrées, glaces;liquide;0,15 à 0,3 %;vegan;42;5
+AR009;Noix de coco;Fruité exotique;Coco crémeuse et lactée, douce et ronde;crémeux, doux, lacté;boissons végétales, biscuits, glaces;poudre;0,2 à 0,4 %;naturel, vegan, halal;37;10
+AR010;Litchi rose;Fruité exotique;Litchi floral avec une touche de pétale de rose;floral, sucré, délicat;thés glacés, cocktails sans alcool, macarons;liquide;0,05 à 0,15 %;vegan;64;2
+AR011;Citron de Sicile;Agrumes;Zeste de citron frais et vif, légèrement amer;frais, vif, zesté;boissons, pâtisseries, eaux aromatisées;liquide;0,05 à 0,2 %;naturel, vegan, halal;33;5
+AR012;Orange sanguine;Agrumes;Orange juteuse aux notes de fruits rouges;juteux, sucré, fruité;jus, sodas, confiseries;liquide;0,1 à 0,25 %;naturel, vegan;36;5
+AR013;Pamplemousse rose;Agrumes;Pamplemousse frais avec une amertume élégante;amer, frais, acidulé;eaux aromatisées, boissons sport, sorbets;liquide;0,05 à 0,2 %;naturel, vegan;40;5
+AR014;Yuzu;Agrumes;Agrume japonais entre citron et mandarine, très parfumé;floral, acidulé, zesté;sauces, boissons premium, pâtisseries;liquide;0,05 à 0,15 %;naturel, vegan;78;2
+AR015;Citron vert;Agrumes;Citron vert pétillant et légèrement herbacé;frais, pétillant, herbacé;sodas, mojitos sans alcool, guacamole;liquide;0,05 à 0,2 %;naturel, vegan, halal;35;5
+AR016;Vanille Bourbon;Sucré gourmand;Vanille de Madagascar crémeuse et boisée;crémeux, boisé, doux;crèmes desserts, glaces, biscuits;liquide;0,1 à 0,3 %;naturel, halal;95;2
+AR017;Caramel beurre salé;Sucré gourmand;Caramel blond au beurre avec une pointe de sel;beurré, salé, caramélisé;desserts lactés, biscuits, boissons chaudes;liquide;0,2 à 0,4 %;halal;41;5
+AR018;Chocolat noir;Sucré gourmand;Cacao intense légèrement torréfié;amer, torréfié, intense;boissons, pâtisseries, céréales;poudre;0,3 à 0,6 %;vegan, halal;46;10
+AR019;Noisette grillée;Sucré gourmand;Noisette torréfiée, ronde et beurrée;grillé, beurré, rond;pâtes à tartiner, biscuits, cafés aromatisés;liquide;0,15 à 0,3 %;vegan, halal;49;5
+AR020;Miel d'acacia;Sucré gourmand;Miel doux et floral, très léger;floral, doux, sucré;céréales, boissons, yaourts;liquide;0,1 à 0,3 %;naturel;53;5
+AR021;Pistache;Sucré gourmand;Pistache torréfiée avec une note d'amande;amandé, grillé, crémeux;glaces, pâtisseries, crèmes;liquide;0,2 à 0,4 %;vegan, halal;67;2
+AR022;Café expresso;Sucré gourmand;Café torréfié intense avec une légère amertume;torréfié, amer, corsé;boissons, desserts, glaces;liquide;0,2 à 0,5 %;vegan, halal;44;5
+AR023;Biscuit spéculoos;Sucré gourmand;Biscuit caramélisé aux épices douces;épicé, caramélisé, cannelle;desserts, glaces, boissons de Noël;poudre;0,2 à 0,5 %;vegan;39;10
+AR024;Menthe poivrée;Frais et végétal;Menthe intense et rafraîchissante;frais, mentholé, piquant;chewing-gums, bonbons, boissons;liquide;0,05 à 0,15 %;naturel, vegan, halal;38;5
+AR025;Menthe verte;Frais et végétal;Menthe douce et sucrée, moins piquante;frais, doux, herbacé;thés glacés, chocolats, sirops;liquide;0,05 à 0,2 %;naturel, vegan, halal;36;5
+AR026;Concombre frais;Frais et végétal;Concombre croquant et aqueux;frais, aqueux, vert;eaux aromatisées, sauces, cosmétiques alimentaires;liquide;0,05 à 0,15 %;naturel, vegan;42;5
+AR027;Thé vert matcha;Frais et végétal;Matcha herbacé avec une légère amertume;herbacé, amer, umami;boissons, pâtisseries, glaces;poudre;0,2 à 0,5 %;naturel, vegan;72;2
+AR028;Basilic;Frais et végétal;Basilic frais, poivré et anisé;herbacé, poivré, anisé;sauces, pestos, plats préparés;liquide;0,05 à 0,15 %;naturel, vegan, halal;47;5
+AR029;Gingembre;Épicé;Gingembre frais, piquant et citronné;piquant, chaud, citronné;boissons, shots, plats asiatiques;liquide;0,05 à 0,2 %;naturel, vegan, halal;43;5
+AR030;Cannelle de Ceylan;Épicé;Cannelle douce et chaleureuse;chaud, sucré, boisé;pâtisseries, boissons chaudes, céréales;poudre;0,1 à 0,3 %;naturel, vegan, halal;45;10
+AR031;Cardamome;Épicé;Cardamome fraîche, camphrée et citronnée;frais, épicé, parfumé;cafés, pâtisseries orientales, chai;liquide;0,03 à 0,1 %;naturel, vegan, halal;69;2
+AR032;Piment doux fumé;Épicé;Paprika fumé avec une chaleur légère;fumé, chaud, doux;chips, sauces, marinades;poudre;0,2 à 0,5 %;vegan, halal;34;10
+AR033;Fromage affiné;Salé;Fromage type comté, fruité et lacté;lacté, fruité, umami;biscuits apéritifs, sauces, plats préparés;poudre;0,3 à 0,8 %;halal;31;10
+AR034;Poulet rôti;Salé;Poulet rôti avec jus de cuisson et herbes;umami, grillé, salé;bouillons, chips, plats préparés;poudre;0,3 à 0,8 %;halal;29;10
+AR035;Champignon des bois;Salé;Champignon terreux et umami;terreux, umami, boisé;soupes, sauces, alternatives à la viande;poudre;0,2 à 0,6 %;naturel, vegan, halal;38;10
+AR036;Fumé au bois de hêtre;Salé;Note fumée naturelle et douce;fumé, boisé, chaud;charcuterie végétale, sauces barbecue, snacks;liquide;0,05 à 0,2 %;vegan, halal;33;5
+AR037;Oignon caramélisé;Salé;Oignon doré et légèrement sucré;sucré, grillé, umami;sauces, burgers, soupes;poudre;0,2 à 0,5 %;naturel, vegan, halal;30;10
+AR038;Beurre frais;Lacté;Beurre doux et crémeux;beurré, crémeux, doux;biscuits, viennoiseries, popcorn;liquide;0,1 à 0,3 %;halal;40;5
+AR039;Crème fraîche;Lacté;Crème épaisse légèrement acidulée;crémeux, acidulé, lacté;sauces, desserts, alternatives végétales;poudre;0,2 à 0,5 %;halal;37;10
+AR040;Lait concentré sucré;Lacté;Lait cuit sucré aux notes de caramel;sucré, lacté, caramélisé;desserts, boissons, confiseries;liquide;0,2 à 0,4 %;halal;35;5
+AR041;Fleur d'oranger;Floral;Fleur d'oranger douce et lumineuse;floral, doux, frais;pâtisseries orientales, brioches, boissons;liquide;0,03 à 0,1 %;naturel, vegan, halal;59;2
+AR042;Rose de Damas;Floral;Rose délicate et légèrement poudrée;floral, poudré, délicat;loukoums, boissons, macarons;liquide;0,02 à 0,08 %;naturel, vegan, halal;84;2
+AR043;Lavande;Floral;Lavande fraîche, légèrement herbacée;floral, herbacé, frais;miels aromatisés, chocolats, thés;liquide;0,02 à 0,06 %;naturel, vegan;62;2
+AR044;Hibiscus;Floral;Hibiscus acidulé aux notes de fruits rouges;acidulé, floral, fruité;bissap, thés glacés, sorbets;poudre;0,1 à 0,3 %;naturel, vegan, halal;46;10
+AR045;Pomme verte;Fruité verger;Pomme granny croquante et acidulée;acidulé, croquant, frais;bonbons, boissons, compotes;liquide;0,1 à 0,25 %;vegan, halal;32;5
+AR046;Poire Williams;Fruité verger;Poire juteuse et fondante;juteux, sucré, fondant;desserts, eaux aromatisées, yaourts;liquide;0,1 à 0,3 %;naturel, vegan;45;5
+AR047;Pêche de vigne;Fruité verger;Pêche mûre et veloutée;sucré, velouté, juteux;thés glacés, yaourts, boissons;liquide;0,1 à 0,3 %;naturel, vegan, halal;47;5
+AR048;Abricot sec;Fruité verger;Abricot confit, sucré et légèrement acidulé;confit, sucré, acidulé;barres de céréales, pâtisseries, yaourts;poudre;0,2 à 0,4 %;vegan, halal;41;10

@@ -97,3 +97,47 @@ Corps de requête : `{"question": "Comment s'appelle le cheval de Léo ?", "top_
 
 Si vous changez `EMBED_MODEL`, relancez `clean.py` puis `ingest.py` : les vecteurs
 de deux modèles différents ne sont pas compatibles.
+
+## Benchmark Givaudan
+
+Compare des modèles Ollama pour une plateforme de commande d'arômes alimentaires,
+sur le catalogue fictif `data/catalogue_aromes.csv`. Ce benchmark est indépendant
+du pipeline de l'histoire.
+
+### Modèles à télécharger
+
+```bash
+ollama pull nomic-embed-text
+ollama pull bge-m3
+ollama pull qwen2.5:1.5b
+ollama pull qwen3.5:4b
+ollama pull llama3.2:3b
+ollama pull gemma3:4b
+```
+
+### Lancer le benchmark
+
+Depuis la racine du repo, venv activé, Ollama lancé :
+
+```bash
+python benchmark/run_benchmark.py
+python benchmark/make_report.py
+```
+
+Le premier script peut durer plus d'une heure sur un ordinateur sans GPU. Les modèles
+sont chargés un par un.
+
+### Résultats
+
+| Fichier | Contenu |
+|---------|---------|
+| `benchmark_llm.pdf` | Rapport final, à la racine du repo |
+| `benchmark/results/embed_results.csv` | Scores des modèles d'embeddings |
+| `benchmark/results/embed_top3.csv` | Les 3 arômes retrouvés par question |
+| `benchmark/results/llm_results.csv` | Mesures par modèle et par question |
+| `benchmark/results/llm_models.csv` | Taille, RAM et chargement de chaque LLM |
+| `benchmark/results/llm_answers.md` | Toutes les réponses, à lire pour les noter |
+| `benchmark/results/manual_scores.csv` | Notes sur 5 à remplir par l'équipe |
+
+Une fois `manual_scores.csv` rempli, relancez seulement `python benchmark/make_report.py` :
+les notes sont prises en compte dans la recommandation.

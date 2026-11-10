@@ -1,0 +1,197 @@
+﻿model;question_id;question;statut;total_duration_s;load_duration_s;prompt_eval_duration_s;eval_duration_s;eval_count;tokens_par_s;cite_arome;aromes_cites;invente_arome;aromes_inventes;en_francais;termine_par_question;nb_mots;tronquee;reponse
+qwen2.5:1.5b;Q1;Je cherche un arôme fruité et sucré pour un yaourt à boire;ok;17.269;0.051;9.048;8.12;73;8.99;True;Fraise des bois;False;;True;False;45;False;Je vous recommande le Fraise des bois (famille : Fruité rouge) pour votre yaourt à boire. Sa composition de fraises mûres et sucrée avec une acidulée légère et juteuse donne un goût fruité et sucré parfait. Ce yaourt sera apprécié par les enfants et les adultes.
+qwen2.5:1.5b;Q2;Pour une eau aromatisée rafraîchissante, plutôt agrume, un peu amère;ok;16.59;0.122;6.633;9.712;88;9.06;True;Pamplemousse rose;False;;True;False;48;False;Pour une eau aromatisée rafraîchissante plutôt agrume, un peu amère, je recommanderais le Pamplemousse rose. Sa note de goût d'amertume élégante et ses notes de frais et acidulé feront une excellente base. Je vous conseille de le doser entre 0,05 et 0,2 % pour une application idéale.
+qwen2.5:1.5b;Q3;Je veux un goût caramel au beurre salé pour une crème glacée;ok;36.451;0.034;6.228;30.119;265;8.8;True;Caramel beurre salé, Lait concentré sucré, Crème fraîche;False;;True;False;124;False;"Pour un goût caramel au beurre salé dans une crème glacée, je recommanderais :
+
+1. Caramel beurre salé (famille : Sucré gourmand) : Caramel blond au beurre avec une pointe de sel. Notes de goût : beurré, salé, caramélisé. Applications : desserts lactés, biscuits, boissons chaudes. Forme : liquide. Dosage conseillé : 0,2 à 0,4 %. Certifications : halal. Prix indicatif : 41 EUR/kg. Quantité minimale : 5 kg.
+
+2. Lait concentré sucré (famille : Lacté) : Lait cuit sucré aux notes de caramel. Notes de goût : sucré, lacté, caramélisé. Applications : desserts, boissons, confiseries. Forme : liquide. Dosage conseillé : 0,2 à 0,4 %. Certifications : halal. Prix indicatif : 35 EUR/kg. Quantité minimale : 5 kg.
+
+Cette combinaison de crème fraîche crémeuse et caramel beurre salé donnera un goût unique et gourmand à votre crème glacée."
+qwen2.5:1.5b;Q4;Une note fumée pour des chips végétales;ok;18.454;0.112;6.16;12.143;110;9.06;True;Piment doux fumé;False;;True;False;61;False;Pour des chips végétales, je recommande le Piment doux fumé (famille : Épicé). Sa chaleur légère et ses notes de fumé et de chaud feront un excellent accompagnement. Il se marie bien avec les saveurs végétaliennes et apportera une touche de fraîcheur. Un dosage de 0,2 à 0,5 % sera suffisant pour maintenir la saveur sans perturber la texture des chips.
+qwen2.5:1.5b;Q5;Un arôme floral pour des pâtisseries orientales;ok;15.63;0.032;6.4;9.165;83;9.06;True;Fleur d'oranger;False;;True;False;42;False;Pour des pâtisseries orientales, je recommande le Fleur d'oranger. Sa douceur et sa luminosité s'harmonisent parfaitement avec les notes orientales. Il est idéal pour les pâtisseries orientales, les brioches et les boissons. Le dosage conseillé est de 0,03 à 0,1 %.
+qwen2.5:1.5b;Q6;Un arôme pour un chai latte épicé;ok;28.317;0.021;6.335;21.928;195;8.89;True;Cardamome, Café expresso, Thé vert matcha;False;;True;False;97;False;"Pour un chai latte épicé, je recommanderais :
+
+1. Cardamome (famille : Épicé) : Avec sa fraîcheur, ses notes de camphre et de citron, ce cardamome ajoutera une touche épicée et parfumée à votre chai latte.
+
+2. Café expresso (famille : Sucré gourmand) : Le café torréfié intense avec légère amertume ajoutera une texture et une saveur douce à votre chai.
+
+3. Thé vert matcha (famille : Frais et végétal) : Matcha herbacé avec une légère amertume donnera une touche de fraîcheur et d'umami à votre boisson.
+
+Ce trio combinera parfaitement les saveurs épicées, douces et fraîches pour un chai latte original et délicieux."
+qwen2.5:1.5b;Q7;Une saveur umami pour un bouillon végétarien;ok;31.25;0.029;5.908;25.199;225;8.93;True;Champignon des bois, Oignon caramélisé, Poulet rôti;False;;True;False;103;False;"Pour un bouillon végétarien avec une saveur umami, je recommande les arômes suivants :
+
+1. **Champignon des bois** (famille : Salé) : Ce poudre apporte une saveur terreuse et umami, idéale pour un bouillon végétarien.
+
+2. **Oignon caramélisé** (famille : Salé) : L'onglet doré et légèrement sucré ajoutera une touche de saveur sucrée et grillée, parfaitement harmonisée avec l'umami du champignon.
+
+3. **Poulet rôti** (famille : Salé) : Les herbes et jus de cuisson apporteront une touche de salé et grillé, créant une saveur riche et complexe.
+
+Ce mélange de saveurs terrestres et salées apportera une saveur unique et riche à votre bouillon végétarien, tout en respectant les normes halal."
+qwen2.5:1.5b;Q8;Un thé glacé à la pêche, très fruité;ok;19.768;0.07;6.494;13.155;118;8.97;True;Pêche de vigne, Thé vert matcha;False;;True;False;56;False;"Pour un thé glacé très fruité à la pêche, je recommanderais :
+
+1. Thé vert matcha (famille : Frais et végétal) : 2 kg
+2. Pêche de vigne (famille : Fruité verger) : 5 kg
+
+Ce mixe les arômes de matcha herbacé avec une légère amertume et la fraîcheur de la pêche de vigne, créant un thé glacé fruité et rafraîchissant."
+qwen3.5:4b;Q1;Je cherche un arôme fruité et sucré pour un yaourt à boire;ok;71.922;0.113;24.007;47.001;155;3.3;True;Fraise des bois, Fruits rouges mélangés, Poire Williams;False;;True;True;94;False;"Bonjour ! Pour votre yaourt à boire, voici trois options parmi nos arômes disponibles :
+
+1. **Fraise des bois** : Un choix idéal car il offre une saveur de fraise mûre, légèrement acidulée et juteuse, parfaite pour le goût fruité que vous recherchez.
+2. **Fruits rouges mélangés** : Cette poudre apporte un mélange rond et sucré (fraises, framboises, etc.), ce qui peut enrichir votre produit avec une touche variée.
+3. **Poire Williams** : Si vous souhaitez une alternative différente, cet arôme liquide donne une sensation fondante et très sucrée, souvent utilisée dans les desserts.
+
+Quelle direction préférez-vous pour commencer ?"
+qwen3.5:4b;Q2;Pour une eau aromatisée rafraîchissante, plutôt agrume, un peu amère;ok;72.702;0.147;23.61;47.285;154;3.26;True;Pamplemousse rose, Menthe poivrée, Lavande;False;;True;True;89;False;"Bonjour ! Voici trois arômes qui pourraient correspondre à votre demande d'eau rafraîchissante et agrumée :
+
+1. **Pamplemousse rose** : C'est le meilleur choix car il offre exactement le goût d'agrumes frais avec une amertume élégante, parfait pour vos besoins.
+2. **Menthe poivrée** : Il apporte une fraîcheur intense qui complète bien les boissons, même si ce n'est pas un agrume pur.
+3. **Lavande** : Bien qu'il soit floral, il peut ajouter une touche de fraîcheur à l'eau, mais il manque la note d'amertume recherchée.
+
+Pour mieux vous aider, quel volume d'arôme souhaitez-vous commander ?"
+qwen3.5:4b;Q3;Je veux un goût caramel au beurre salé pour une crème glacée;ok;63.821;0.22;22.55;40.785;133;3.26;True;Caramel beurre salé, Lait concentré sucré, Crème fraîche;False;;True;True;79;False;"Bonjour ! Pour votre crème glacée, voici trois options parmi nos arômes disponibles :
+
+1. **Caramel beurre salé** : Il offre exactement le goût caramélisé et salé que vous recherchez, parfait pour sublimer vos desserts lactés.
+2. **Lait concentré sucré** : Une alternative douce avec des notes de caramel qui apportera une touche sucrée et lactée à votre glace.
+3. **Crème fraîche** : Bien qu'acidulée, elle peut ajouter une texture crémeuse intéressante si vous souhaitez un équilibre différent.
+
+Quelle direction préférez-vous pour votre recette ?"
+qwen3.5:4b;Q4;Une note fumée pour des chips végétales;ok;64.737;0.064;22.865;41.42;137;3.31;True;Piment doux fumé, Fumé au bois de hêtre, Menthe poivrée;False;;True;True;87;False;"Bonjour ! Pour vos chips végétales, voici trois options parmi nos arômes disponibles :
+
+1. **Piment doux fumé** : Il apporte une chaleur légère et des notes de paprika fumé, parfait pour donner du caractère à vos snacks.
+2. **Fumé au bois de hêtre** : Ce liquide offre une note fumée naturelle et douce, idéale pour imiter le goût d'une cuisson barbecue.
+3. **Menthe poivrée** : Bien que frais, il peut créer un contraste intéressant si vous souhaitez une touche rafraîchissante après la saveur fumée.
+
+Quelle direction préférez-vous suivre pour votre produit ?"
+qwen3.5:4b;Q5;Un arôme floral pour des pâtisseries orientales;ok;64.468;0.185;22.942;40.678;133;3.27;True;Fleur d'oranger, Rose de Damas, Cardamome;False;;True;True;76;False;"Bonjour ! Voici trois options florales idéales pour vos pâtisseries orientales :
+
+1. **Fleur d'oranger** : C'est le choix parfait, car son goût doux et frais est la base classique de ces desserts.
+2. **Rose de Damas** : Très délicate et poudrée, elle apportera une touche raffinée tout en restant adaptée aux pâtisseries.
+3. **Cardamome** : Bien qu'épicée, cette saveur fraîche et citronnée est souvent utilisée dans les pâtisseries orientales pour un profil unique.
+
+Quelle direction préférez-vous suivre pour votre recette ?"
+qwen3.5:4b;Q6;Un arôme pour un chai latte épicé;ok;63.683;0.222;23.251;39.979;132;3.3;True;Cardamome, Café expresso, Thé vert matcha;False;;True;True;82;False;"Pour votre chai latte épicé, je vous recommande l'arôme **Cardamome**. C'est le cœur de la recette traditionnelle, offrant des notes fraîches et parfumées qui rappellent les épices chaudes.
+
+Le **Café expresso** est également un excellent choix pour renforcer le côté corsé et amer du mélange, idéal pour une boisson riche. Enfin, le **Thé vert matcha** apporte une touche herbacée légère et de l'umami, ce qui peut sublimer la texture si vous souhaitez varier les saveurs.
+
+Quelle direction préférez-vous privilégier pour votre produit ?"
+qwen3.5:4b;Q7;Une saveur umami pour un bouillon végétarien;ok;74.992;0.102;22.415;51.822;130;2.51;True;Champignon des bois, Oignon caramélisé, Poulet rôti;False;;True;True;78;False;"Bonjour ! Pour votre bouillon végétarien recherchant une saveur umami, je vous recommande trois options parmi nos arômes disponibles.
+
+Tout d'abord, le **Champignon des bois** offre des notes terreuses et umami parfaites pour remplacer la viande dans vos soupes. Ensuite, l'**Oignon caramélisé** apporte un goût sucré et grillé qui enrichit également les sauces et bouillons. Enfin, le **Poulet rôti** donne une touche umami, salée et grillée idéale pour vos plats préparés.
+
+Quelle direction préférez-vous privilégier pour votre recette ?"
+qwen3.5:4b;Q8;Un thé glacé à la pêche, très fruité;ok;108.191;0.706;53.942;53.125;168;3.16;True;Pêche de vigne, Mangue Alphonso, Thé vert matcha;False;;True;True;104;False;"Bonjour ! Pour votre thé glacé à la pêche, je vous recommande l'arôme **Pêche de vigne**. Il est parfait car il offre un goût sucré et velouté qui imite une pêche mûre, exactement ce que vous recherchez.
+
+Une autre option intéressante serait le **Thé vert matcha**. Bien qu'il soit plus amer, il peut apporter une touche herbacée élégante à votre boisson glacée, créant un contraste intéressant avec la douceur de la pêche.
+
+Enfin, si vous souhaitez ajouter une note tropicale exotique, le **Mangue Alphonso** pourrait fonctionner, car sa texture crémeuse et son goût sucré s'intègrent bien dans les glaces.
+
+Quelle direction préférez-vous pour votre recette ?"
+llama3.2:3b;Q1;Je cherche un arôme fruité et sucré pour un yaourt à boire;ok;53.616;0.178;19.049;34.232;155;4.53;True;Fraise des bois, Fruits rouges mélangés, Poire Williams;False;;True;True;80;False;"Pour votre yaourt à boire, je vous recommande les arômes suivants :
+
+*   Fraise des bois : cette fraise parfumée et sucrée ajoutera une touche de fraîcheur et de douceur à votre yaourt.
+*   Fruits rouges mélangés : cet assemblage de fraises, framboises, cassis et myrtilles apportera une dimension fruitée et sucrée à votre yaourt.
+*   Poire Williams : cette poire juteuse et fondante ajoutera une note de douceur et de profondeur à votre yaourt.
+
+Quel est le volume d'arôme que vous souhaitez utiliser pour votre yaourt ?"
+llama3.2:3b;Q2;Pour une eau aromatisée rafraîchissante, plutôt agrume, un peu amère;ok;79.121;0.055;13.599;65.283;283;4.33;True;Pamplemousse rose, Menthe poivrée, Lavande;False;;True;True;140;False;"Pour une eau aromatisée rafraîchissante, plutôt agrume, un peu amère, je vous recommande les arômes suivants :
+
+*   Pamplemousse rose (Agrumes) : Cette arôme est parfaite pour créer une eau aromatisée rafraîchissante et agrume. L'amertume élégante du pamplemousse rose ajoutera une touche de complexité à votre eau aromatisée.
+*   Menthe poivrée (Frais et végétal) : La menthe poivrée est une excellente option pour créer une eau aromatisée rafraîchissante. Son goût frais et mentholé ajoutera une touche de fraîcheur à votre eau aromatisée.
+*   Lavande (Floral) : Bien que la lavande soit souvent associée à des eaux aromatisées plus douces, elle peut également ajouter une touche de fraîcheur et de complexité à votre eau aromatisée. Cependant, il est important de noter que la lavande est plus douce que le pamplemousse rose et la menthe poivrée.
+
+Quel est le dosage d'arôme que vous souhaitez utiliser pour votre eau aromatisée ?"
+llama3.2:3b;Q3;Je veux un goût caramel au beurre salé pour une crème glacée;ok;62.034;0.356;13.877;47.548;208;4.37;True;Caramel beurre salé, Lait concentré sucré, Crème fraîche;False;;True;True;107;False;"Pour créer un goût caramel au beurre salé pour votre crème glacée, je vous recommande les arômes suivants :
+
+* Caramel beurre salé (famille : Sucré gourmand) : cet arôme vous donnera une note de beurre salé et de caramel caramélisé qui conviendra parfaitement à votre crème glacée.
+* Lait concentré sucré (famille : Lacté) : cet arôme vous apportera une touche de sucré et de lacté qui complétera le goût de caramel au beurre salé.
+* Crème fraîche (famille : Lacté) : cette poudre vous donnera une texture crémeuse et légèrement acidulée qui équilibrera les notes de caramel et de beurre salé.
+
+Question : Quelle est la quantité d'arôme que vous souhaitez utiliser pour votre crème glacée ?"
+llama3.2:3b;Q4;Une note fumée pour des chips végétales;ok;49.268;0.471;13.359;35.088;164;4.67;True;Piment doux fumé, Fumé au bois de hêtre;False;;True;True;81;False;"Pour une note fumée pour des chips végétales, je vous recommande de considérer les deux arômes suivants :
+
+*   Fumé au bois de hêtre (famille : Salé) : Cette note fumée naturelle et douce est idéale pour donner une saveur raffinée et complexe à vos chips végétales.
+*   Piment doux fumé (famille : Épicé) : Cette note de fumé légèrement chaude peut ajouter une touche de chaleur et de profondeur à vos chips végétales.
+
+Je vous pose la question : Quelle intensité de fumée souhaitez-vous pour vos chips végétales ?"
+llama3.2:3b;Q5;Un arôme floral pour des pâtisseries orientales;ok;49.551;0.022;12.42;36.873;165;4.47;True;Fleur d'oranger, Rose de Damas;False;;True;True;93;False;"Pour vos pâtisseries orientales, je vous recommande les arômes Fleur d'oranger et Rose de Damas. La Fleur d'oranger apporte une touche douce et lumineuse, tandis que la Rose de Damas ajoute une délicatesse et une poudreuse légère. Les deux arômes sont également certifiés naturels, vegan et halal, ce qui les rend adaptés à vos besoins.
+
+Je vous propose de commencer par une petite quantité de Fleur d'oranger, puis de ajuster selon vos goûts. Le dosage conseillé est de 0,03 à 0,1 %.
+
+Avez-vous préféré utiliser une seule arôme ou combiner les deux ?"
+llama3.2:3b;Q6;Un arôme pour un chai latte épicé;ok;50.168;0.523;13.259;36.13;160;4.43;True;Cardamome, Café expresso, Thé vert matcha;False;;True;True;83;False;"Pour un chai latte épicé, je vous recommande de combiner le Cardamome fraîche et le Café expresso. Le Cardamome fraîche apportera une touche de fraîcheur et d'épicité, tandis que le Café expresso ajoutera une intensité torréfiée et une légère amertume. Cette combinaison créera un chai latte épicé et complexe.
+
+Je vous propose également de considérer l'ajout d'une petite quantité de Thé vert matcha pour apporter une touche de fraîcheur et d'umami.
+
+Avez-vous prévu d'utiliser une quantité importante d'arômes dans votre chai latte épicé ?"
+llama3.2:3b;Q7;Une saveur umami pour un bouillon végétarien;ok;61.628;0.071;13.149;48.095;210;4.37;True;Champignon des bois, Oignon caramélisé, Poulet rôti;False;;True;True;101;False;"Pour créer une saveur umami pour votre bouillon végétarien, je vous recommande les arômes suivants :
+
+*   Champignon des bois (famille : Salé) : Ce champignon terreux et umami est idéal pour ajouter une profondeur de saveur à votre bouillon végétarien.
+*   Oignon caramélisé (famille : Salé) : L'odeur légèrement sucrée et grillée de l'oignon caramélisé peut ajouter une touche de complexité à votre bouillon.
+*   Poulet rôti (famille : Salé) : Bien que ce produit soit halal, il peut également apporter une saveur umami à votre bouillon végétarien, en fonction de vos préférences.
+
+Pouvez-vous me dire si vous préférez une saveur plus forte ou plus douce pour votre bouillon végétarien ?"
+llama3.2:3b;Q8;Un thé glacé à la pêche, très fruité;ok;63.805;0.081;13.737;49.434;219;4.43;True;Pêche de vigne, Mangue Alphonso, Thé vert matcha;False;;True;True;118;False;"Pour un thé glacé très fruité à la pêche, je vous recommande les arômes suivants :
+
+*   Pêche de vigne (Fruité verger) : cet arôme est idéal pour donner une saveur de pêche intense et veloutée à votre thé glacé.
+*   Mangue Alphonso (Fruité exotique) : bien que plus sucrée que la pêche, cette mangue peut apporter une touche de crémeux et de tropical qui complétera la saveur de pêche.
+*   Thé vert matcha (Frais et végétal) : bien que moins fruité que les deux précédents, le thé vert matcha peut apporter une touche d'umami qui équilibrera la saveur de pêche.
+
+Pouvez-vous me dire si vous préférez une saveur de pêche plus intense ou si vous souhaitez ajouter une touche de crémeux et de tropical ?"
+gemma3:4b;Q1;Je cherche un arôme fruité et sucré pour un yaourt à boire;ok;60.753;0.48;20.188;39.848;150;3.76;True;Fraise des bois, Fruits rouges mélangés, Poire Williams;False;;True;True;89;False;"Bonjour ! Pour un yaourt à boire fruité et sucré, je vous suggère plusieurs options.
+
+Premièrement, la **Fraise des bois** apportera une base fruitée intense et parfumée, idéale pour un goût sucré et légèrement acidulé. Deuxièmement, l'**Fruits rouges mélangés** offre un profil fruité plus complexe, avec des notes de fraise, framboise, cassis et myrtille, pour un goût rond et fruité. Enfin, la **Poire Williams** apportera une douceur juteuse et fondante, parfaite pour adoucir le mélange.
+
+Pourriez-vous me préciser quel type de douceur vous recherchez dans ce yaourt à boire ?"
+gemma3:4b;Q2;Pour une eau aromatisée rafraîchissante, plutôt agrume, un peu amère;ok;65.47;0.197;20.75;43.172;162;3.75;True;Pamplemousse rose, Menthe poivrée, Lavande;False;;True;True;87;False;"Bonjour ! Pour votre eau aromatisée rafraîchissante avec une touche d'amertume, je vous recommande vivement de considérer deux arômes :
+
+Le **Pamplemousse rose** apportera la fraîcheur et l'acidité que vous recherchez, avec son amertume élégante. Il est parfait pour des eaux aromatisées.
+
+De plus, une petite touche de **Menthe poivrée** renforcerait l'effet rafraîchissant et ajouterait une dimension piquant agréable.
+
+Enfin, pour une note florale subtile, vous pourriez envisager une infime quantité de **Lavande**, pour un côté herbacé et frais.
+
+Pourriez-vous me préciser quel type de rafraîchissement vous imaginez précisément ?"
+gemma3:4b;Q3;Je veux un goût caramel au beurre salé pour une crème glacée;ok;62.912;0.068;19.377;43.05;163;3.79;True;Caramel beurre salé, Lait concentré sucré, Crème fraîche;False;;True;True;88;False;"Bonjour ! Pour votre crème glacée, je vous recommande vivement deux arômes qui se marieront à merveille :
+
+*   **Caramel Beurre Salé** : Il apportera l'essence du caramel blond, le goût beurré et la touche salée qui sublimeront votre crème glacée.
+*   **Lait Concentré Sucré** : Il renforcera la dimension caramélisée et lactée, créant ainsi une base gourmande et onctueuse.
+*   **Crème Fraîche** : Pour une texture veloutée et un léger contraste, elle apportera de la richesse à votre recette.
+
+Pourriez-vous me préciser quel type de crème glacée vous souhaitez réaliser (par exemple, vanille, chocolat, etc.) ?"
+gemma3:4b;Q4;Une note fumée pour des chips végétales;ok;74.338;0.02;19.015;54.936;197;3.59;True;Piment doux fumé, Fumé au bois de hêtre, Menthe poivrée;False;;True;True;111;False;"Bonjour ! Pour vos chips végétales, je vous recommande vivement deux arômes :
+
+Tout d'abord, le **Piment doux fumé** (famille : Épicé) apportera une chaleur agréable et des notes fumées subtiles, parfaites pour relever vos chips. Son dosage conseillé est de 0,2 à 0,5 %.
+
+Ensuite, le **Fumé au bois de hêtre** (famille : Salé) renforcera cette dimension fumée, avec une note boisée douce et un goût fumé naturel. Un dosage de 0,05 à 0,2 % sera idéal.
+
+Enfin, pour un contraste intéressant, vous pourriez envisager un peu de **Menthe poivrée** (famille : Frais et végétal) pour un effet rafraîchissant.
+
+Avez-vous une idée précise du niveau de fumée que vous recherchez pour ces chips ?"
+gemma3:4b;Q5;Un arôme floral pour des pâtisseries orientales;ok;61.044;0.454;21.307;38.312;147;3.84;True;Fleur d'oranger, Rose de Damas, Cardamome;False;;True;True;84;False;"Bonjour ! Pour vos pâtisseries orientales, je vous recommande vivement de considérer trois arômes.
+
+Tout d'abord, la **Fleur d'oranger** apportera une douceur florale et fraîche, idéale pour vos pâtisseries orientales. Ensuite, la **Rose de Damas** ajoutera une note délicate et poudrée, très appréciée dans ce style. Enfin, la **Cardamome** peut apporter une touche épicée et parfumée qui complétera parfaitement l’ensemble.
+
+Ces arômes sont liquides, faciles à doser et certifiés naturels, vegan et halal.
+
+Pour mieux cerner vos besoins, quel type de pâtisserie orientale souhaitez-vous développer ?"
+gemma3:4b;Q6;Un arôme pour un chai latte épicé;ok;67.458;1.338;19.582;45.313;171;3.77;True;Cardamome, Café expresso, Thé vert matcha;False;;True;True;93;False;"Bonjour ! Pour votre chai latte épicé, je vous recommande plusieurs options.
+
+Tout d'abord, la **Cardamome** (famille : Épicé) apportera une touche fraîche et épicée, idéale pour un chai. Sa note citronnée se mariera parfaitement avec le lait.
+
+Ensuite, le **Café expresso** (famille : Sucré gourmand) renforcera l'aspect chaleureux et gourmand de votre boisson. Son amertume équilibrera les épices.
+
+Enfin, le **Thé vert matcha** (famille : Frais et végétal) ajoutera une dimension umami et herbacée, pour un chai latte plus complexe et raffiné.
+
+Pourriez-vous me préciser quel type de saveur vous recherchez principalement dans votre chai latte ?"
+gemma3:4b;Q7;Une saveur umami pour un bouillon végétarien;ok;54.556;0.156;19.854;34.115;128;3.75;True;Champignon des bois, Oignon caramélisé, Poulet rôti;False;;True;True;79;False;"Bonjour ! Pour un bouillon végétarien riche en umami, je vous suggère plusieurs options.
+
+Tout d'abord, notre **Champignon des bois** est parfait. Il apporte une saveur terreuse et umami très appréciée, idéale pour intensifier le goût de votre bouillon. Ensuite, le **Poulet rôti** peut également être intéressant, grâce à son goût umami et grillé. Enfin, le **Oignon caramélisé** apportera une touche sucrée et umami qui complétera agréablement votre bouillon.
+
+Pourriez-vous me préciser quel type de bouillon végétarien vous souhaitez créer ?"
+gemma3:4b;Q8;Un thé glacé à la pêche, très fruité;ok;65.481;1.128;20.262;42.167;157;3.72;True;Pêche de vigne, Thé vert matcha;False;;True;True;93;False;"Bonjour ! Pour votre thé glacé à la pêche, je vous recommande vivement deux arômes. 
+
+Tout d'abord, la **Pêche de vigne** apportera la base de votre saveur : elle est fruitée, juteuse et très mûre, idéale pour un thé glacé fruité. Ensuite, pour intensifier le côté fruité, je vous suggère l’**Alphonso**, pour sa texture crémeuse et son goût tropical. 
+
+Enfin, pour un effet rafraîchissant, vous pouvez ajouter une touche de **Thé vert matcha** pour un contraste herbacé et umami.
+
+Avez-vous une idée précise du niveau de fruité que vous recherchez dans votre thé glacé ?"

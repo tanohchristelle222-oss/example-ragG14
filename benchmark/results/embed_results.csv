@@ -1,0 +1,3 @@
+﻿model;statut;hit_at_3;precision_at_3;temps_indexation_s;temps_moyen_requete_s;dimension;taille_disque_mo;ram_mo
+nomic-embed-text;ok;1.0;0.4167;15.097;0.8139;768;262;371
+bge-m3;ok;1.0;0.5;29.634;0.6084;1024;1104;1187

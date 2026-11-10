@@ -1,0 +1,5 @@
+﻿model;statut;taille_disque_mo;ram_mo;chargement_s;think_desactive
+qwen2.5:1.5b;ok;940;1119;7.605;True
+qwen3.5:4b;ok;3170;3001;25.225;True
+llama3.2:3b;ok;1926;2449;11.946;True
+gemma3:4b;ok;3195;2755;25.996;True

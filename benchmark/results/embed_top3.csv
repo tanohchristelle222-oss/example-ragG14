@@ -1,0 +1,49 @@
+﻿model;question_id;question;rang;id;nom;score_cosinus;attendu
+nomic-embed-text;Q1;Je cherche un arôme fruité et sucré pour un yaourt à boire;1;AR048;Abricot sec;0.7082;False
+nomic-embed-text;Q1;Je cherche un arôme fruité et sucré pour un yaourt à boire;2;AR046;Poire Williams;0.7078;False
+nomic-embed-text;Q1;Je cherche un arôme fruité et sucré pour un yaourt à boire;3;AR001;Fraise des bois;0.7045;True
+nomic-embed-text;Q2;Pour une eau aromatisée rafraîchissante, plutôt agrume, un peu amère;1;AR013;Pamplemousse rose;0.7226;True
+nomic-embed-text;Q2;Pour une eau aromatisée rafraîchissante, plutôt agrume, un peu amère;2;AR021;Pistache;0.6636;False
+nomic-embed-text;Q2;Pour une eau aromatisée rafraîchissante, plutôt agrume, un peu amère;3;AR014;Yuzu;0.662;False
+nomic-embed-text;Q3;Je veux un goût caramel au beurre salé pour une crème glacée;1;AR017;Caramel beurre salé;0.7895;True
+nomic-embed-text;Q3;Je veux un goût caramel au beurre salé pour une crème glacée;2;AR023;Biscuit spéculoos;0.7107;False
+nomic-embed-text;Q3;Je veux un goût caramel au beurre salé pour une crème glacée;3;AR037;Oignon caramélisé;0.7013;False
+nomic-embed-text;Q4;Une note fumée pour des chips végétales;1;AR036;Fumé au bois de hêtre;0.7194;True
+nomic-embed-text;Q4;Une note fumée pour des chips végétales;2;AR032;Piment doux fumé;0.7036;True
+nomic-embed-text;Q4;Une note fumée pour des chips végétales;3;AR021;Pistache;0.6559;False
+nomic-embed-text;Q5;Un arôme floral pour des pâtisseries orientales;1;AR041;Fleur d'oranger;0.6741;True
+nomic-embed-text;Q5;Un arôme floral pour des pâtisseries orientales;2;AR014;Yuzu;0.6552;False
+nomic-embed-text;Q5;Un arôme floral pour des pâtisseries orientales;3;AR010;Litchi rose;0.6519;False
+nomic-embed-text;Q6;Un arôme pour un chai latte épicé;1;AR031;Cardamome;0.7191;True
+nomic-embed-text;Q6;Un arôme pour un chai latte épicé;2;AR030;Cannelle de Ceylan;0.6817;True
+nomic-embed-text;Q6;Un arôme pour un chai latte épicé;3;AR021;Pistache;0.6663;False
+nomic-embed-text;Q7;Une saveur umami pour un bouillon végétarien;1;AR034;Poulet rôti;0.672;False
+nomic-embed-text;Q7;Une saveur umami pour un bouillon végétarien;2;AR027;Thé vert matcha;0.6483;False
+nomic-embed-text;Q7;Une saveur umami pour un bouillon végétarien;3;AR037;Oignon caramélisé;0.6306;True
+nomic-embed-text;Q8;Un thé glacé à la pêche, très fruité;1;AR047;Pêche de vigne;0.7189;True
+nomic-embed-text;Q8;Un thé glacé à la pêche, très fruité;2;AR001;Fraise des bois;0.6718;False
+nomic-embed-text;Q8;Un thé glacé à la pêche, très fruité;3;AR009;Noix de coco;0.6692;False
+bge-m3;Q1;Je cherche un arôme fruité et sucré pour un yaourt à boire;1;AR001;Fraise des bois;0.6322;True
+bge-m3;Q1;Je cherche un arôme fruité et sucré pour un yaourt à boire;2;AR004;Fruits rouges mélangés;0.6046;True
+bge-m3;Q1;Je cherche un arôme fruité et sucré pour un yaourt à boire;3;AR046;Poire Williams;0.6033;False
+bge-m3;Q2;Pour une eau aromatisée rafraîchissante, plutôt agrume, un peu amère;1;AR013;Pamplemousse rose;0.6285;True
+bge-m3;Q2;Pour une eau aromatisée rafraîchissante, plutôt agrume, un peu amère;2;AR024;Menthe poivrée;0.5943;False
+bge-m3;Q2;Pour une eau aromatisée rafraîchissante, plutôt agrume, un peu amère;3;AR043;Lavande;0.5915;False
+bge-m3;Q3;Je veux un goût caramel au beurre salé pour une crème glacée;1;AR017;Caramel beurre salé;0.6579;True
+bge-m3;Q3;Je veux un goût caramel au beurre salé pour une crème glacée;2;AR040;Lait concentré sucré;0.5878;False
+bge-m3;Q3;Je veux un goût caramel au beurre salé pour une crème glacée;3;AR039;Crème fraîche;0.581;False
+bge-m3;Q4;Une note fumée pour des chips végétales;1;AR032;Piment doux fumé;0.5467;True
+bge-m3;Q4;Une note fumée pour des chips végétales;2;AR036;Fumé au bois de hêtre;0.5114;True
+bge-m3;Q4;Une note fumée pour des chips végétales;3;AR024;Menthe poivrée;0.4892;False
+bge-m3;Q5;Un arôme floral pour des pâtisseries orientales;1;AR041;Fleur d'oranger;0.6378;True
+bge-m3;Q5;Un arôme floral pour des pâtisseries orientales;2;AR042;Rose de Damas;0.5702;True
+bge-m3;Q5;Un arôme floral pour des pâtisseries orientales;3;AR031;Cardamome;0.5539;False
+bge-m3;Q6;Un arôme pour un chai latte épicé;1;AR031;Cardamome;0.592;True
+bge-m3;Q6;Un arôme pour un chai latte épicé;2;AR022;Café expresso;0.5304;False
+bge-m3;Q6;Un arôme pour un chai latte épicé;3;AR027;Thé vert matcha;0.5247;False
+bge-m3;Q7;Une saveur umami pour un bouillon végétarien;1;AR035;Champignon des bois;0.538;True
+bge-m3;Q7;Une saveur umami pour un bouillon végétarien;2;AR037;Oignon caramélisé;0.5203;True
+bge-m3;Q7;Une saveur umami pour un bouillon végétarien;3;AR034;Poulet rôti;0.4983;False
+bge-m3;Q8;Un thé glacé à la pêche, très fruité;1;AR047;Pêche de vigne;0.6835;True
+bge-m3;Q8;Un thé glacé à la pêche, très fruité;2;AR006;Mangue Alphonso;0.5571;False
+bge-m3;Q8;Un thé glacé à la pêche, très fruité;3;AR027;Thé vert matcha;0.5465;False
